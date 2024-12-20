@@ -1862,3 +1862,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Dec2024 20:08:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto has made the advancement [Getting an Upgrade]
 [20Dec2024 20:08:51.008] [Worker-Main-6/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/Beardifier$1
 [20Dec2024 20:09:59.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexbustos has made the advancement [Monster Hunter]
+[20Dec2024 20:13:28.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 20:13:28.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 20:14:16.291] [Worker-Main-6/DEBUG] [mixin/]: Mixing commands.arguments.blocks.BlockStateParserMixin from mixins.arclight.core.json into net.minecraft.commands.arguments.blocks.BlockStateParser
+[20Dec2024 20:14:25.867] [Server thread/DEBUG] [mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[20Dec2024 20:14:26.174] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.entity.SculkCatalystBlockEntity_CatalystListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.entity.SculkCatalystBlockEntity$CatalystListener
+[20Dec2024 20:15:01.781] [Worker-Main-6/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.PrepareRamNearestTargetMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.PrepareRamNearestTarget
+[20Dec2024 20:15:01.782] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$targetEvent$0(Lnet/minecraft/world/entity/PathfinderMob;Ljava/util/function/Consumer;Lnet/minecraft/world/entity/LivingEntity;)V to mdc470bf$lambda$arclight$targetEvent$0$0 in mixins.arclight.core.json:world.entity.ai.behavior.PrepareRamNearestTargetMixin
+[20Dec2024 20:17:43.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexbustos lost connection: Timed out
+[20Dec2024 20:17:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexbustos left the game.
+[20Dec2024 20:17:43.207] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 20:18:28.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 20:18:28.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 20:18:45.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anto lost connection: Disconnected
+[20Dec2024 20:18:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto left the game

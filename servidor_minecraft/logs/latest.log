@@ -319,3 +319,8 @@
 [20Dec2024 20:05:04.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto has made the advancement [Stone Age]
 [20Dec2024 20:08:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto has made the advancement [Getting an Upgrade]
 [20Dec2024 20:09:59.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexbustos has made the advancement [Monster Hunter]
+[20Dec2024 20:17:43.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexbustos lost connection: Timed out
+[20Dec2024 20:17:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexbustos left the game.
+[20Dec2024 20:17:43.207] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 20:18:45.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anto lost connection: Disconnected
+[20Dec2024 20:18:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto left the game
