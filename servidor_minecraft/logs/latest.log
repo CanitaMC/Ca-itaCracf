@@ -307,3 +307,15 @@
 [20Dec2024 20:01:44.945] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Anto is 0799939e-6142-3a43-b3a9-0b1f961903c5
 [20Dec2024 20:01:45.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anto[/127.225.9.134:34495] logged in with entity id 1214 at (-2.5, 66.0, 8.5)
 [20Dec2024 20:01:45.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto joined the game
+[20Dec2024 20:02:30.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anto lost connection: Timed out
+[20Dec2024 20:02:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto left the game.
+[20Dec2024 20:02:30.259] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 20:02:42.120] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Anto is 0799939e-6142-3a43-b3a9-0b1f961903c5
+[20Dec2024 20:02:42.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anto[/127.225.9.134:33003] logged in with entity id 1364 at (-2.5, 66.0, 8.5)
+[20Dec2024 20:02:42.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto joined the game
+[20Dec2024 20:03:25.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anto moved too quickly! 0.18690032019278036,0.0,11.096925148703317
+[20Dec2024 20:03:59.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexbustos has made the advancement [Stone Age]
+[20Dec2024 20:04:48.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexbustos has made the advancement [Getting an Upgrade]
+[20Dec2024 20:05:04.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto has made the advancement [Stone Age]
+[20Dec2024 20:08:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto has made the advancement [Getting an Upgrade]
+[20Dec2024 20:09:59.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexbustos has made the advancement [Monster Hunter]
